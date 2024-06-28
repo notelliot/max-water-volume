@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdbool.h>
 
 int get_max(int nums[], int size){
     int max_pos = 0;
